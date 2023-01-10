@@ -1,4 +1,4 @@
-# huffman
+I created a code using the JAVA programming language.
+The code implements encoding and decoding according to the Huffman algorithm
 
-Compression using the Hoffman algorithm.
-I have attached examples of files for compression and recovery
+To use the code you can clone it and run it on your computer
